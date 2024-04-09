@@ -15,4 +15,4 @@
 6. 可以用 clpfd 库编程
 7. 要拿高分需要一定的优化技巧来避免 timeout
 
-![image][https://github.com/CSPRJSV/COMP30020/blob/main/1-.jpg]
+![image](https://github.com/CSPRJSV/COMP30020/blob/main/1-.jpg)
